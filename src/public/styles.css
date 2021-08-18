@@ -255,6 +255,17 @@ a:hover {
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
+       height:100%;
+
+}
+.resume-img img{
+    height:80%;
+}
+
+.resume-img{
+    width:80%;
+    text-align:center;
+    margin:auto;
 }
 
 
