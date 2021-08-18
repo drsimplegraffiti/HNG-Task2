@@ -39,3 +39,11 @@ const mongoose = require('mongoose');
 ```http
   GET /
 ```
+## HNG Link
+[click here](https://hng.tech)
+
+## ZURI Link
+[click here](https://training.zuri.team/)
+
+## i4g Link
+[click here](https://ingressive.org/)
