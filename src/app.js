@@ -40,8 +40,8 @@ const port = process.env.PORT || 5000;
 
 //@server listening
 const startApplication = async() => {
-    await app.listen(3000, () => {
-        console.log("app is running on port 3000");
+    await app.listen(port, () => {
+        console.log(`app is running on port ${port}`);
     })
 }
 
