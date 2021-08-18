@@ -35,8 +35,9 @@ router.post('/form', async(req, res) => {
             from: 'drsimplegraffiti@gmail.com',
             to: form.email,
             subject: 'Thank-you email',
-            html: `<h2>${form.name}! Thanks for contacting me </h2>`,
-            message: `<p>${form.message}</p>`
+            html: `<h2>${form.name}! Thanks for contacting me </h2> 
+                  <p>${form.message}</p>
+            `
         }
 
         //sending mail
