@@ -30,7 +30,7 @@ If you have any feedback, please reach out to us at abayomiogunnusi@gmail.com
 const mongoose = require('mongoose');
 ```
 ## Deployed to heroku link
-[Heroku Link](https://whispering-atoll-56236.herokuapp.com/)
+[Heroku Link](https://hng-i4g.herokuapp.com/)
 
 ## API Reference
 
