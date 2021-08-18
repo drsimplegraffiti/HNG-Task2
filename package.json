@@ -1,0 +1,25 @@
+{
+    "name": "resume",
+    "version": "1.0.0",
+    "description": "resume page",
+    "main": "app.js",
+    "scripts": {
+        "start": "node src/app.js",
+        "dev": "nodemon src/app.js"
+    },
+    "author": "abayomi ogunnusi",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "ejs": "^3.1.6",
+        "express": "^4.17.1",
+        "express-handlebars": "^5.3.3",
+        "mongoose": "^5.13.7",
+        "morgan": "^1.10.0",
+        "mustache": "^4.2.0",
+        "nodemailer": "^6.6.3"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
+}
